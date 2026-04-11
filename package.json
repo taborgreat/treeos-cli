@@ -1,6 +1,6 @@
 {
   "name": "treeos",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "CLI for TreeOS. Navigate trees, chat with AI, manage your land.",
   "main": "index.js",
   "bin": {
